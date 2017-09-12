@@ -82,6 +82,9 @@ W3C-TEST.ORG:README.md
 W3C-TEST.ORG:*/README.md
 W3C-TEST.ORG:docs/*
 SET TIMEOUT: docs/*
+WEB-PLATFORM.TEST: README.md
+WEB-PLATFORM.TEST: */README.md
+WEB-PLATFORM.TEST: docs/*
 
 ## Helper scripts ##
 
@@ -811,6 +814,10 @@ CSS-COLLIDING-SUPPORT-NAME: css/CSS2/css1/support/pattern-gg-gr.png
 CSS-COLLIDING-SUPPORT-NAME: css/css-display-3/support/util.js
 CSS-COLLIDING-SUPPORT-NAME: css/CSS2/normal-flow/support/replaced-min-max-1.png
 CSS-COLLIDING-SUPPORT-NAME: css/vendor-imports/mozilla/mozilla-central-reftests/ui3/support/replaced-min-max-1.png
+
+WEB-PLATFORM.TEST: .travis.yml
+WEB-PLATFORM.TEST: config.default.json
+WEB-PLATFORM.TEST: tools/*
 
 # TODO https://github.com/w3c/web-platform-tests/issues/5770
 MISSING-LINK: css/geometry-1/*.worker.js
